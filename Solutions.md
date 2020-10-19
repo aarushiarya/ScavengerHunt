@@ -1,4 +1,7 @@
-Time - Give 5 mins for each clue.
+Instructions:
+
+* Time - Give 5 mins for each clue.
+* Open incognito window, go to [https://ywit.zyrosite.com/](https://ywit.zyrosite.com/)
 
 ---
 
@@ -16,7 +19,7 @@ Google - How does url work
 * Hint 3 - Where does the sentence end
 * Hint 4 - Can you find url in the sentence
 
-First clue will take longer to figure out the pattern
+First clue will take longer to figure out the pattern; that is answers go after the '/' in the url to get to next clue.
 
 ### Solution:
 Sentence starts in the middle first word is 'ywit'.
@@ -112,11 +115,13 @@ Go to: ywit.zyrosite.com/<insert answer>
 
 Emoji -> Binary -> ASCII
 
-0 - 
-1 - 
+0 - girl emoji
+1- robot emoji
 
 01100110 01101001 01110010 01110011 01110100 01110111 01101111 01101101 01100101 01101110 01100011 01110100 01101111 01101111
 01100110 01110100 01101000 01100101 01110111 01101000 01101001 01110100 01100101 01101000 01101111 01110101 01110011 01100101
+
+firstwomenctoofthewhitehouse - megansmith
 
 ---
 
@@ -133,7 +138,7 @@ Go to: ywit.zyrosite.com/<insert answer>
 ### Solution:
 Open the photo in text editor. Go to the end of file. 
 
-CLUE - first person to publish an algorithm intended to be executed by the first modern computer
+CLUE - first person to publish an algorithm intended to be executed by the first modern computer - adalovelace
 
 ---
 
@@ -150,6 +155,10 @@ Go to: ywit.zyrosite.com/<insert answer>
 
 ### Solution:
 
+[Online morse code decoder] (https://morsecode.world/international/translator.html)
+
+woman who put man on moon - margarethamilton
+
 ---
 
 ## Clue 9
@@ -159,9 +168,15 @@ Go to: ywit.zyrosite.com/<insert answer>
 
 ### Solution:
 
+Download video. Convert to wav.
+
+[Online sound cryptography decoder]()
+
 first woman in congress - jeannetterankin
 
 ---
 
 ## Clue 10
 [https://ywit.zyrosite.com/jeannetterankin](https://ywit.zyrosite.com/jeannetterankin)
+
+The End.
