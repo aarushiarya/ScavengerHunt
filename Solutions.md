@@ -170,7 +170,8 @@ Go to: ywit.zyrosite.com/<insert answer>
 
 Download video. Convert to wav.
 
-[Online sound cryptography decoder]()
+To decode message from wav file:
+[Online sound cryptography decoder](https://futureboy.us/stegano/decinput.html)
 
 first woman in congress - jeannetterankin
 
