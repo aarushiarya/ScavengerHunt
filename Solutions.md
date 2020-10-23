@@ -95,8 +95,10 @@ urihgdlnzmgldrmgsvZ.N.GfirmtZdziwulixlnkfgrmt
 
 ### Solution:
 
-Decoded string
+To decode:
+[Online cryptography decoder](https://cryptii.com/pipes/alphabetical-substitution)
 
+Decoded string:
 first woman to win the A.M. Turing Award for computing - franallen
 
 ---
@@ -121,6 +123,10 @@ Emoji -> Binary -> ASCII
 01100110 01101001 01110010 01110011 01110100 01110111 01101111 01101101 01100101 01101110 01100011 01110100 01101111 01101111
 01100110 01110100 01101000 01100101 01110111 01101000 01101001 01110100 01100101 01101000 01101111 01110101 01110011 01100101
 
+To decode:
+[Online binary to ascii converter tool](https://onlineasciitools.com/convert-arbitrary-base-to-ascii)
+
+Decoded string:
 firstwomenctoofthewhitehouse - megansmith
 
 ---
