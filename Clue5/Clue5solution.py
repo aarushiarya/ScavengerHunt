@@ -1,5 +1,3 @@
-```python
-
 # Python program to implement Reverse Alphabet Decoder 
   
 ''' 
@@ -31,4 +29,3 @@ for letter in message:
        decoded_string+= REVERSE_ALPHABET_CODE_DICT.get(letter)
   
 print decoded_string
-```
