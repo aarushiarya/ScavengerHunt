@@ -142,6 +142,8 @@ Go to: ywit.zyrosite.com/<insert answer>
 * Hint3 - open in test editor, go to the location where pixels are weird; at the end; what is the clue?
 
 ### Solution:
+Click on the image. Select 'Save as' and save the image on your machine.
+
 Open the photo in text editor. Go to the end of file. 
 
 CLUE - first person to publish an algorithm intended to be executed by the first modern computer - adalovelace
@@ -174,10 +176,12 @@ Go to: ywit.zyrosite.com/<insert answer>
 
 ### Solution:
 
-Download video. Convert to wav.
+Go to the url given as hint. Select 'Save as' and save the file on your machine.
 
 To decode message from wav file:
 [Online sound cryptography decoder](https://futureboy.us/stegano/decinput.html)
+
+Upload file. Choose raw output and submit.
 
 first woman in congress - jeannetterankin
 
