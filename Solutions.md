@@ -163,7 +163,7 @@ Go to: ywit.zyrosite.com/<insert answer>
 
 ### Solution:
 
-[Online morse code decoder] (https://morsecode.world/international/translator.html)
+[Online morse code decoder](https://morsecode.world/international/translator.html)
 
 woman who put man on moon - margarethamilton
 
