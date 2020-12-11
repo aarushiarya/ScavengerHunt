@@ -12,3 +12,5 @@ All of the clues and solution developed during the class session will be availab
 We will have two tracks - beginner and intermediate. 
 The pace will be slow and more help will be given to the students in beginner track. We will provide for resources as well.
 Intermediate track will go faster and students will be given more time to come up with the solution.
+
+Access screen recording [here](https://www.youtube.com/watch?v=zgso8nkcHbo)
